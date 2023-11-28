@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Julian",
+      "email": "andikajulian97@gmail.com",
+      "password": "acsacsac",
+      "id": 1
+    },
+    {
+      "name": "andika",
+      "email": "asndiasnd@joasjdo.com",
+      "password": "ansdjlknsalkdnlkas",
+      "id": 2
+    },
+    {
+      "name": "asndlkna",
+      "email": "asnkdl@naskdl.com",
+      "password": "asnkdlasndkl",
+      "id": 3
+    }
+  ]
+}
